@@ -6,8 +6,7 @@
 - :computer: I’m currently learning everything 🤣
 - 👯 I’m looking forward to work with other Developers
 - 🥅 2023 Goals: Giving back more to the open source Community
-- ⚡ Fun fact: I love reading books :books:
-- :coffee: Caffeine addict
+- :coffee: Caffeine recovering addict
 
 ### Connect with me:
 
