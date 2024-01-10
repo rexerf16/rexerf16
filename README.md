@@ -1,11 +1,11 @@
 # Hi my name is Mohammed - aka [Rexer][linktree] 👋
 
-## I'm a CS student , Linux terminal tools Developer !!
+## I'm a Cybersecurity Specialist !!
 
 - 🔭 Check out my projects on my [Repository][rebo]
 - :computer: I’m currently learning everything 🤣
 - 👯 I’m looking forward to work with other Developers
-- 🥅 2023 Goals: Giving back more to the open source Community
+- 🥅 2024 Goals: Giving back more to the open source Community
 - :coffee: Caffeine recovering addict
 
 ### Connect with me:
